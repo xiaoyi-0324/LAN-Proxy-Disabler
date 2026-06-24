@@ -1,7 +1,13 @@
 # LAN-Proxy-Disabler
 Suitable for situations where you need to quickly turn off a proxy and go back to a direct network connection, like when leftover proxy settings remain after quitting a VPN tool or switching company networks.
-# 局域网代理禁用工具
 
+**Choose the version that works for your language:**
+- [简体中文](README.md)
+- [English](README.en-US.md)
+
+---
+
+# 局域网代理禁用工具
 一键禁用 Windows 系统全局 LAN 代理设置的批处理脚本。  
 适用于快速关闭代理、恢复直连网络，例如 VPN/代理工具退出后遗留配置，或切换网络环境时使用。
 
